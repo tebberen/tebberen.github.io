@@ -8,7 +8,7 @@
     "version": "1",
     "name": "Celo Engage Hub",
     "iconUrl": "https://tebberen.github.io/celo-engage-hubv2/assets/logo-celo-engage-hub.png",
-   "homeUrl": "https://tebberen.github.io/celo-engage-hubv2/?miniApp=true#home",
+    "homeUrl": "https://tebberen.github.io/celo-engage-hubv2/?miniApp=true#home",
     "splashImageUrl": "https://tebberen.github.io/celo-engage-hubv2/assets/logo-celo-engage-hub.png",
     "splashBackgroundColor": "#FBCC5C",
     "subtitle": "Celo ecosystem hub",
