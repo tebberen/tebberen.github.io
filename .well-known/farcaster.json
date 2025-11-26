@@ -1,0 +1,33 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjc2Mjg1OSwidHlwZSI6ImF1dGgiLCJrZXkiOiIweDkwQjI2NUVCMDhkM2NlNEQzNjQxNzdGQjNBZjcyQjhlODkwYzQyMzgifQ",
+    "payload": "eyJkb21haW4iOiJ0ZWJiZXJlbi5naXRodWIuaW8ifQ",
+    "signature": "zA+2ieDiOp4X4mHt1DLXM/fq32CgFc0TMbZZ80nTYokqwVz1iYwrHR8tE5Uo++1bF6Oi9E2OCC18I+mgwwAz+Rw="
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Celo Engage Hub",
+    "iconUrl": "https://tebberen.github.io/celo-engage-hubv2/assets/logo-celo-engage-hub.png",
+    "homeUrl": "https://tebberen.github.io/celo-engage-hubv2/#home",
+    "splashImageUrl": "https://tebberen.github.io/celo-engage-hubv2/assets/logo-celo-engage-hub.png",
+    "splashBackgroundColor": "#FBCC5C",
+    "subtitle": "Celo ecosystem hub",
+    "description": "Discover Celo official links, DEX/CEX/bridge tools and Farcaster mini apps plus GM, Deploy and Donate actions in a single hub.",
+    "screenshotUrls": [
+      "https://tebberen.github.io/celo-engage-hubv2/assets/logo-celo-engage-hub.png"
+    ],
+    "primaryCategory": "developer-tools",
+    "tags": [
+      "celo",
+      "defi",
+      "gm",
+      "web3"
+    ],
+    "heroImageUrl": "https://tebberen.github.io/celo-engage-hubv2/assets/logo-celo-engage-hub.png",
+    "tagline": "Discover and build on Celo",
+    "ogTitle": "Celo Engage Hub",
+    "ogDescription": "Celo links, tools and Farcaster mini apps in one hub.",
+    "ogImageUrl": "https://tebberen.github.io/celo-engage-hubv2/assets/logo-celo-engage-hub.png",
+    "canonicalDomain": "tebberen.github.io"
+  }
+}
